@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.ibm.transformers.Filter","timestamp":1474129131924,"sparkVersion":"1.6.0","uid":"Filter_a9865ef2c10d","paramMap":{"conditionExpr":"country = 'USA' "}}
