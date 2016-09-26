@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Filter","timestamp":1474888149247,"sparkVersion":"1.6.0","uid":"Filter_cd5cc8fb5dee","paramMap":{"conditionExpr":"commAmt > 400"}}
