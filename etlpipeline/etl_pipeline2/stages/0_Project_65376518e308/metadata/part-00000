@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.ibm.transformers.Project","timestamp":1475078856222,"sparkVersion":"1.6.0","uid":"Project_65376518e308","paramMap":{"flag":"select","cols":["id","name","turnOver","country","commAmt"]}}
